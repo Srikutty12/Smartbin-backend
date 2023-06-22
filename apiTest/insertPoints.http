@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/v1/points/insert HTTP/1.1
+Content-Type: application/json
+
+{
+    "userId": "646f4acbf490d2ce424dd424",
+    "points": 123
+}
